@@ -3,6 +3,7 @@
 using namespace std;
 
 int binary_search(vector<int> A, int n, int val){
+    // binary search the val's position where it first appeared.
     int l=0, r=n-1;
     int mid;
     while(l<=r){
@@ -20,10 +21,9 @@ int binary_search(vector<int> A, int n, int val){
 }
 
 int main(){
-    int n;
-    scanf("%d", &n);
+    int n, tmp;
     vector<int> A;
-    int tmp;
+    scanf("%d", &n);
     for(int i=0;i<n;i++){
         scanf("%d", &tmp);
         A.push_back(tmp);
