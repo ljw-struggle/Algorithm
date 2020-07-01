@@ -42,5 +42,5 @@ int main(){
         int res_incontinuous = lcs_incontinuous(len_a, len_b);
         printf("%d %d\n", res_continuous, res_incontinuous);
     }
-	return 0;
+    return 0;
 }
