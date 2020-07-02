@@ -1,7 +1,7 @@
 [![LeetCode](https://img.shields.io/badge/Leetcode-Algorithm-brightgreen)](https://leetcode-cn.com/)
 
 # Data Structures and Algorithms
-Data structures and algorithms in CPP and Python. (Templates For Interview)
+Data structures and algorithms in CPP and Python.
 
 ## Data Structure
 * [Array](./DataStructure/array)
