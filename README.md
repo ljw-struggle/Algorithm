@@ -29,4 +29,5 @@ Data structures and algorithms in CPP and Python. (Templates For Interview)
 * GCD and LCM
 
 ## Other Algorithm
-* [Bit Manipulation]()
+* [CPP](./Algorithm/other/cpp)
+* [Python](./Algorithm/other/python)
