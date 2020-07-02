@@ -15,9 +15,9 @@ Data structures and algorithms in CPP and Python. (Templates For Interview)
 
 ## Algorithm
 * [Brute Force](./Algorithm/bruteforce)
-* [Backtracking](./Algorithm/backtracking)
+* [Backtrack](./Algorithm/backtrack)
 * [Divide and Conquer](./Algorithm/divide_and_conquer)
-* [Dynamic Programming](./Algorithm/dynamic_programming)
+* [Dynamic Program](./Algorithm/dynamic_program)
    * Longest Common Subsequence (continuous \ incontinuous)
 * [Greedy](./Algorithm/greedy)
 * KMP algorithm
