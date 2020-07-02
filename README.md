@@ -28,6 +28,6 @@ Data structures and algorithms in CPP and Python. (Templates For Interview)
 ## Mathematic Algorithm
 * GCD and LCM
 
-## Other Algorithm
+## Other
 * [CPP](./Algorithm/other/cpp)
 * [Python](./Algorithm/other/python)
