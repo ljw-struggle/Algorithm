@@ -17,7 +17,7 @@ int main(){
     int a, b, res;
     while(~scanf("%d%d", &a, &b)){
         res = gcd(a, b);
-        printf("%d", res);
+        printf("%d\n", res);
     }
     return 0;
 }
