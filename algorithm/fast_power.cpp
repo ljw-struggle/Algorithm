@@ -14,7 +14,7 @@ LL myPow_int(LL a, LL b, LL p){
 
 double myPow_double(double a, LL b){
     // return a^b .
-    if(b<0) a=1/a; b=-b;
+    if(b<0) a=1/a, b=-b;
     double res = 1.0;
     for(;b;b>>=1, a=(a*a)){
         if(b&1) res=res*a;
