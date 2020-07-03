@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdio>
+#include <cmath> // double pow(double, double){...}
 #define LL long long
 using namespace std; 
 
