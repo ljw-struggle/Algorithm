@@ -5,12 +5,11 @@ using namespace std;
 int gcd(int a, int b){
     // return the greatest common divisor.
     if(b==0) return a;
-    if(a<b) return gcd(a, b%a);
-    else return gcd(b, a%b);
+    return gcd(b, a%b);
 }
 
 int lcm(int a, int b){
-    // return the least common multiper.
+    // return the least common multiple.
     return (a*b)/gcd(a, b);
 }
 
