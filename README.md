@@ -18,16 +18,16 @@ Data structures and algorithms in CPP and Python.
 * [Backtrack](./Algorithm/backtrack)
 * [Divide and Conquer](./Algorithm/divide_and_conquer)
 * [Dynamic Program](./Algorithm/dynamic_program)
-   * <small>Longest Common Subsequence (continuous \ incontinuous)</small>
-   * Chess Board Problem (State Compression DP)
+   * *Longest Common Subsequence (continuous \ incontinuous)*
+   * *Chess Board Problem (State Compression DP)*
 * [Greedy](./Algorithm/greedy)
-* KMP algorithm
-* Binary Search
-* Fast Power
-* Fast Power (Matrix)
+* *KMP algorithm*
+* *Binary Search*
+* *Fast Power*
+* *Fast Power (Matrix)*
 
 ## Mathematic Algorithm
-* GCD and LCM
+* *GCD and LCM*
 
 ## Other
 * [CPP](./Algorithm/other/cpp)
