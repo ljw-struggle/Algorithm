@@ -15,8 +15,7 @@ int lcm(int a, int b){
 
 int main(){
     int a, b, res;
-    while(~scanf("%d", &a)){
-        scanf("%d", &b);
+    while(~scanf("%d%d", &a, &b)){
         res = gcd(a, b);
         printf("%d", res);
     }
