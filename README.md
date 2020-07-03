@@ -19,6 +19,7 @@ Data structures and algorithms in CPP and Python.
 * [Divide and Conquer](./Algorithm/divide_and_conquer)
 * [Dynamic Program](./Algorithm/dynamic_program)
    * Longest Common Subsequence (continuous \ incontinuous)
+   * Chess Board Problem (State Compression DP)
 * [Greedy](./Algorithm/greedy)
 * KMP algorithm
 * Binary Search
