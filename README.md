@@ -4,31 +4,34 @@
 Data structures and algorithms in CPP and Python.
 
 ## Data Structure
-* [Array](./DataStructure/array)
-* [String](./DataStructure/string)
-* [Linked List](./DataStructure/linked_list)
-* [Stack](./DataStructure/stack)
-* [Queue](./DataStructure/queue)
-* [Tree](./DataStructure/tree)
-* [Heap](./DataStructure/heap)
-* [Hash](./DataStructure/hash)
+* [Array](./datastructure/array)
+* [String](./datastructure/string)
+* [Linked List](./datastructure/linked_list)
+* [Stack](./datastructure/stack)
+* [Queue](./datastructure/queue)
+* [Tree](./datastructure/tree)
+* [Heap](./datastructure/heap)
+* [Hash](./datastructure/hash)
 
 ## Algorithm
-* [Brute Force](./Algorithm/bruteforce)
-* [Backtrack](./Algorithm/backtrack)
-* [Divide and Conquer](./Algorithm/divide_and_conquer)
-* [Dynamic Program](./Algorithm/dynamic_program)
+* [Brute Force](./algorithm/bruteforce)
+* [Backtrack](./algorithm/backtrack)
+* [Divide and Conquer](./algorithm/divide_and_conquer)
+* [Dynamic Program](./algorithm/dynamic_program)
    * *Longest Common Subsequence (continuous \ incontinuous)*
    * *Chess Board Problem (State Compression DP)*
-* [Greedy](./Algorithm/greedy)
+* [Greedy](./algorithm/greedy)
 * *KMP algorithm*
 * *Binary Search*
 * *Fast Power*
 * *Fast Power (Matrix)*
 
-## Mathematic Algorithm
+## Mathematic
 * *GCD and LCM*
 
-## Other
-* [CPP](./Algorithm/other/cpp)
-* [Python](./Algorithm/other/python)
+## Language Basic Knowledge
+* [CPP](./_language/cpp)
+* [Python](./_language_/python)
+
+## Interview Experience
+* [Huawei](./interview/huawei)
