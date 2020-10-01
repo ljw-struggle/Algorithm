@@ -1,3 +1,6 @@
+#dynamic programming is the most important and usefull concept , this algorithm plays a very important role in coding interviews
+
+
 #include<iostream>
 #include<string>
 #include<cstring>
@@ -8,7 +11,7 @@ char a[1001], b[1001];
 int dp[1001][1001] = {0}, len_a, len_b;
 
 int lcs_continuous(int len_a, int len_b){
-    // return the maximum length of an subarray that appears in both arrays. (continuous)
+    //it will return the maximum length of an subarray that appears in both arrays. (continuous)
     int ans=0;
     for(int i=1;i<=len_a;i++){
         for(int j=1;j<=len_b;j++){
